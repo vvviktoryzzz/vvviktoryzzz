@@ -1,4 +1,4 @@
-<h1 align="center">Привет! Меня зовут Виктория 🦐</h1>
+<h1 align="center">Привет! Меня зовут Виктория</h1>
 
 <p align="center">
   QA Engineer 🤓👩‍💻<br>
