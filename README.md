@@ -26,7 +26,7 @@
 ### 🛠 Мои навыки
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,figma,photoshop,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,figma,photoshop,git,github,mysql,postman" />
 </p>
 
 **QA / Testing**
